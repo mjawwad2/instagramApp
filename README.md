@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
  
-<img src="INSTAGIF2.gif" width=250><br>
+<img src="INSTAGIFF2.gif" width=250><br>
 
 # Parstagram - Part I
 
