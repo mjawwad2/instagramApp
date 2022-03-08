@@ -23,8 +23,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
  
-<img src="INSTAGIFF2.gif" width=250><br>
+
 
 # Parstagram - Part I
 
